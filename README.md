@@ -8,7 +8,7 @@
 
 ## 资源
 
-- [Venus Team Project(s)](https://github.com/orgs/ipfs-force-community/projects/9/views/3) 项目/产品追踪
+- [Venus Team Project(s)](https://github.com/orgs/ipfs-force-community/projects/9/views/1) 项目/产品追踪
 - `venus` 节点仓库
   - [venus](https://github.com/filecoin-project/venus)
   - [venus-wallet](https://github.com/filecoin-project/venus-wallet)
