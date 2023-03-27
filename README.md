@@ -2,8 +2,13 @@
 
 在22年底，`Venus`团队维护的各产品[品牌重塑](https://github.com/filecoin-project/venus/discussions/5420)的大背景下，受 [filecoin-project/core-devs](https://github.com/filecoin-project/core-devs) 的启发，启用新的 [ipfsforce-community](https://github.com/ipfs-force-community) 组织下的 `venus-core-devs` 作为维护 `sprint` 相关的 `issue` 的仓库。
 
+## 项目管理架构
+
+![image](https://user-images.githubusercontent.com/1591330/227889296-c66e4673-671c-40cb-90a1-b54fb8c93a1a.png)
+
 ## 资源
 
+- [Venus Team Project(s)](https://github.com/orgs/ipfs-force-community/projects/9/views/3) 项目/产品追踪
 - `venus` 节点仓库
   - [venus](https://github.com/filecoin-project/venus)
   - [venus-wallet](https://github.com/filecoin-project/venus-wallet)
